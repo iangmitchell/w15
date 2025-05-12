@@ -1,4 +1,4 @@
-import '../node_modules/bulma/css/bulma.css';
+import 'bulma/css/bulma.css';
 import Column from './Column.js';
 import Header from './Header.js';
 const colWidths=[3,6,3];
