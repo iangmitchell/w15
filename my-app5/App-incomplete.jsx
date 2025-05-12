@@ -1,7 +1,6 @@
-import './App.css';
+import 'bulma/css/bulma.css'
 import ______ from './Header'
 import ______ from './Column'
-import './css/bulma2.css'
 import { use______, use_____ } from 'react';
 
 function App() {

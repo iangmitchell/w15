@@ -1,4 +1,3 @@
-import './css/bulma2.css'
 function ______(_____) {
     return(
         <>
